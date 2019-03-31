@@ -1,5 +1,5 @@
 # gpuhook
-A so will hook the cuMemGetInfo function
+ You can use this so to hook the cuMemGetInfo CUDA function. And the gpu memory will be the env GPU_MEMORY 's value
 
 ```
 [GCC 5.4.0 20160609] on linux
